@@ -1,4 +1,4 @@
 document.getElementById("loveButton").addEventListener("click", function() {
-    document.getElementById("loveMessage").innerText = "I love you!";
+    document.getElementById("loveMessage").innerText = "I love you jani!";
 });
 
